@@ -25,7 +25,7 @@ conda install -c conda-forge cookiecutter
 In a folder you want to create the project:
 
 ```bash
-cookiecutter git@github.com:JoseLHC1992/Cookiecutter-personal-template.git
+cookiecutter git@github.com:JLCaraveo/Cookiecutter-personal-template.git
 ```
 
 ## One Files Strucure will be created as follow
